@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+						http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<!-- The Basics -->
+	<groupId>dsLib</groupId>
+	<artifactId>TypeInfo{44F837CA-7781-44d1-89E3-7CAF141A888D}</artifactId>
+	<version>1.0</version>
+	<packaging>pom</packaging>
+	<properties>
+		<language>C++</language>
+	</properties>
+	
+	<!-- More Project Information -->
+	<name>TypeInfo</name>
+	<description>C++ non-intrusive RTTI library.</description>
+	<inceptionYear>2012</inceptionYear>
+	<licenses>
+	  <license>
+		<name>MIT License</name>
+		<url>http://opensource.org/licenses/MIT</url>
+	  </license>
+	</licenses>
+	<developers>
+		<developer>
+			<id>julien.duminil</id>
+			<name>Julien Duminil</name>
+			<email>julien.duminil@gmail.com</email>
+		</developer>
+	</developers>
+</project>
